@@ -1,6 +1,7 @@
 ## Getting Started
 
-This is a VS code Java project. Docs for the functions and classes can read through docs/index.html in JavaDoc format.
+This is a VS code Java project. The Student.db is in an Sqlite3 database.
+Docs for the functions and classes can read through docs/index.html in JavaDoc format.
 
 ## Run:
 
